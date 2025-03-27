@@ -22,4 +22,5 @@ pip install gradio
 pip install PyPDF2
 pip install langchain-groq
 ```  
-Let me know if you need modifications! 🚀
+
+Hope this gave a bit idea about GENAI and its Usecases!!!
