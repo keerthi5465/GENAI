@@ -1,7 +1,3 @@
-Here's a concise and engaging GitHub repository description for your project:  
-
----  
-
 # 📄 Resume Analyzer & AI Learning Resource Finder  
 
 This project integrates **Gradio** with **Langchain-Groq** to create an AI-powered resume analyzer and learning resource finder.  
